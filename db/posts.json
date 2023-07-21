@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Luis Rodriguez",
+      "comment": "Este teléfono tiene una cámara increíble, captura fotos y videos de alta calidad.",
+      "date": "22/07/2023",
+      "image": "public/images/posts/01.jpg"
+    },
+    {
+      "id": 2,
+      "user": "Ana Ramirez",
+      "comment": "Me encanta esta canción, no puedo dejar de escucharla.",
+      "date": "18/07/2023",
+      "image": "public/images/posts/01.jpg"
+    },
+    {
+      "id": 3,
+      "user": "Carlos Gomez",
+      "comment": "Esta película es increíble, tiene efectos especiales impresionantes.",
+      "date": "19/07/2023",
+      "image": "public/images/posts/01.jpg"
+    },
+    {
+      "id": 4,
+      "user": "Laura Martinez",
+      "comment": "Acabo de probar este nuevo restaurante y la comida es deliciosa.",
+      "date": "20/07/2023",
+      "image": "public/images/posts/01.jpg"
+    },
+    {
+      "id": 5,
+      "user": "Pedro Sanchez",
+      "comment": "Este libro me mantuvo intrigado de principio a fin, ¡altamente recomendado!",
+      "date": "21/07/2023",
+      "image": "public/images/posts/01.jpg"
+    },
+    {
+      "id": 6,
+      "user": "Maria Fernandez",
+      "comment": "El paisaje desde este mirador es impresionante, valió la pena el viaje.",
+      "date": "21/07/2023",
+      "image": "public/images/posts/01.jpg"
+    }
+  ]
+}

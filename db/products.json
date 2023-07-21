@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "dedscription": "Gamer",
+      "price": 1400.54,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Teclado mecánico",
+      "description": "Con retroiluminación RGB",
+      "price": 99.99,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Mouse inalámbrico",
+      "description": "Con sensor óptico de alta precisión",
+      "price": 29.99,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Monitor curvo",
+      "description": "UltraWide de 34 pulgadas",
+      "price": 699.99,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Impresora láser",
+      "description": "Multifuncional con conexión Ethernet",
+      "price": 249.99,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Disco duro externo",
+      "description": "Capacidad de 2TB con USB 3.0",
+      "price": 89.99,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Tarjeta gráfica",
+      "description": "Modelo de gama alta con 8GB de memoria",
+      "price": 499.99,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Router Wi-Fi",
+      "description": "Doble banda y velocidad de hasta 1 Gbps",
+      "price": 79.99,
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "Auriculares gaming",
+      "description": "Sonido envolvente 7.1 y micrófono desmontable",
+      "price": 149.99,
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "Tableta gráfica",
+      "description": "Con lápiz sensible a la presión",
+      "price": 199.99,
+      "inStock": true
+    },
+    {
+      "id": 11,
+      "name": "Altavoces Bluetooth",
+      "description": "Con batería recargable y resistencia al agua",
+      "price": 79.99,
+      "inStock": true
+    },
+    {
+      "name": "Nuevo ",
+      "description": "Producto",
+      "price": "1234",
+      "inStock": true,
+      "id": 12
+    }
+  ]
+}
